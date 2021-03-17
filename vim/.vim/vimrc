@@ -1,0 +1,17 @@
+filetype plugin indent on
+syntax on
+set backspace=indent,eol,start
+set hidden
+set noswapfile
+
+set ignorecase
+set smartcase
+set incsearch
+
+set autoindent
+set expandtab
+
+set number
+set ruler
+color peachpuff
+highlight Comment ctermfg=green
